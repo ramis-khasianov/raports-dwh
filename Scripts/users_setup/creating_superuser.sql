@@ -1,0 +1,1 @@
+CREATE USER mysuperuser WITH SUPERUSER PASSWORD 'mypassword';
